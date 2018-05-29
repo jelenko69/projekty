@@ -1,0 +1,18 @@
+html, body {
+    height: 100%; /* Natáhnout přes celou výšku */
+    width: 100%; /* Natáhnout přes celou délku */
+    margin: 0; /* Žádné okraje */
+    overflow: hidden; /* Schované scrollbary */
+    cursor: none; /* Schování kurzoru - místo něj tam je terč */
+    }
+
+#crosshair {
+    position: absolute; /* Absolutní pozice */
+    z-index: 100000; /* Vrstva */
+    }
+    
+.terc {
+    position: absolute; /* Absolutní pozice */
+    width: 64px; /* Šířka */
+    height: 64px; /* Výška */
+    }
