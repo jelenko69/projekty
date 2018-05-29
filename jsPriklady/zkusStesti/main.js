@@ -1,15 +1,24 @@
-alert('máme tad náhodné čísla od 1-5 když se trefíš tak vyhráváš');
+alert('máme tad náhodné čísla od 1-5 když se trefíš tak získaneš 10 bodů');
 
-let typ= prompt("Zadej svůj typ: ");
-let rc = Math.floor((Math.random()* 6));
 
+
+let body= 0;
+
+
+for(let i = 0; i<10;i++){
+    let rc = Math.floor((Math.random()* 6)+1);
+    let typ= prompt("Zadej svůj typ: ");
 if(typ==rc){
 
-alert('Dobře ty vyhrál si, zkusi dát f5 a typnout znova po druhé se ti to zajísté nepovede');
-
+alert('Dobře ty tvůj tip byl správný prokačuj dále !');
+body =+ body + 10;
 }
 else{
-alert('Dej f5 a zkus to příště');
+alert('Jsi špatný jak schody ve výtahu, zkus to znovu');
 }
+alert('Tvůj počet bodů je: ' +body);
 
 console.log(rc);
+}
+
+document.write("tvůj výsledek bodů je: " +body);
