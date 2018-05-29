@@ -1,0 +1,274 @@
+body{
+    background-color: rgb(95, 95, 95);
+    color: black;
+    
+margin:0;
+}
+#ZbKs{
+
+    color: rgb(255, 63, 64);
+margin-right: 0px;
+padding: 10px;
+background-color: rgb(30,30, 30);
+font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+text-decoration: none;
+font-size: 22px;
+float: right;
+margin-right: 10px;
+margin-top: 19px;
+
+}
+#ZbKs1{
+    color: rgb(255, 63, 64);
+    margin-left: 10px;
+    padding: 10px;
+    background-color: rgb(30,30, 30);
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    text-decoration: none;
+    font-size: 22px;
+    float: right;
+    margin-right: 35px;
+    margin-top: 19px;
+
+
+}
+#tenPravy{
+   width: 260px;
+margin-left: 100px;
+float: right;
+
+}
+
+#tenHorni{
+
+  margin-left:20px;
+  
+    }
+    
+
+#pravaLista{
+    float: right;
+    margin-right: PX;
+z-index: 100;
+width: 18px;
+height: 1010px;
+margin-top: 0;
+background-color: rgb(30, 30, 30);
+margin-right: 0px;
+}
+
+#levaLista{
+    z-index: 1;
+    float: right;
+    margin-right: PX;
+z-index: 100;
+width: 18px;
+height: 1069px;;
+margin-top: 0;
+background-color: rgb(255, 63, 64);
+margin-right: 0px;
+}
+
+#odkazy{
+margin-right: 200px;
+
+
+}
+#nadpis{
+    background-color: transparent;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+margin-left: 23px;
+float: left;
+margin-top: 17px;
+z-index: 2;
+font-size: 27px;
+}
+
+#levObr{
+
+    margin-top: 0;
+    z-index: 1;
+
+    font-size: 30px;
+    width: 1700px;
+    height: 1000px;
+
+    background-repeat: no-repeat;
+background-image: url("obrazkyvlevo/par3.jpg");
+
+
+}
+#muzObr{
+
+    margin-top: 0;
+    z-index: 1;
+
+    font-size: 30px;
+    width: 1700px;
+    height: 1000px;
+
+    background-repeat: no-repeat;
+background-image: url("obrazkyvlevo/par3.jpg");
+
+
+}
+#zenObr{
+
+    margin-top: 0;
+    z-index: 1;
+
+    font-size: 30px;
+    width: 1700px;
+    height: 1000px;
+
+    background-repeat: no-repeat;
+background-image: url("obrazkyvlevo/par3.jpg");
+
+
+}
+
+
+#xxx{
+    padding: 10px;
+    background-color: rgb(30,30, 30);
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+text-decoration: none;
+font-size: 22px;
+float: right;
+margin-right: 35px;
+margin-top: 19px;
+color: white;
+}
+
+
+#odkLista{
+   
+margin-top: auto;
+width: 100%;
+height: 60px;
+background-color: rgb(255, 63, 64);
+
+float: right;
+z-index: 1;
+}
+
+footer{
+     
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    color:rgb(95, 95, 95);
+    text-align: center;
+    background-color: rgb(30, 30, 30);
+height: 69px;
+width: 100%;
+
+}
+ #vyberLista{
+float: right;
+margin-top: 3%;
+width: 120px;
+
+ }
+ #vyberPrvky{
+     z-index: 1;
+
+    padding: 10px;
+background-color: rgb(30,30, 30);
+font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+text-decoration: none;
+font-size: 22px;
+float: right;
+margin-right: 0;
+margin-top: 19px;
+color: white;
+margin-left: 5px;
+padding-left: 27px;
+width: 80px;
+ }
+ #levPruh{
+
+background-color: rgb(30, 30, 30);
+float: left;
+
+width: 24px;
+height: 100%;
+
+
+ }
+ #horPruh
+ {
+
+    background-color: rgb(30, 30, 30);
+    float: left;
+    
+    width: 600px;
+    height: 15px;;
+    
+
+
+ }
+#pdd{
+    float: right;
+margin-top:65px;
+background-color: rgb(30, 30, 30);
+width: 120px;
+height: 550px;
+z-index: -1;
+
+}
+#podklad{
+float: right;
+    background-color: rgb(255, 63, 64);
+    width: 80px;
+    height: 300px;
+    z-index: 0;
+
+}
+#barvaks{
+
+    color: rgb(255, 63, 64);
+}
+
+#oblastZbozi{
+float: right;
+font-size: 15px;
+    color: white;
+background-color:  rgb(30, 30, 30);
+    width: 1100px;
+height: 930px;
+margin-top: 10px;
+
+}
+#tabulka{
+
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    
+}
+.obr{
+
+width: 100px;
+height: 100px;
+
+
+}
+.obr img{
+
+display: block;
+width: 150px;
+height: 100px;
+
+
+
+}
+
+td{
+
+width:150px;
+
+}
+
+.produkty tr{
+
+margin-left: 10px;
+margin-right: 10px;
+
+}
